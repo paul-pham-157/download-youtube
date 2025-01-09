@@ -1,5 +1,18 @@
 # Diu Túp Downloader
 
+## Usage
+- At this time it only support macbook.
+- Download lastest release version. Find some thing like macos-DiuTupDownloaderByPaulPham157_v-3.6.2.zip at https://github.com/paul-pham-157/download-youtube/releases
+- Unzip
+- Run the app
+- Although I have written a build script for windows, I have not had time to test and build for windows.
+- So that now it open source :D then you can build it for yourself.
+- I won't give instructions, do it yourself
+- If you want to contribute to the community, please submit a pull request. I'm often online and will merge very quickly (if there are no errors ^^)
+- Last thing, if you want to keep it for yourself or even sell it, yes you can, I don't care. Provided that a copy of the license complies with the [MIT License](LICENSE) is retained.
+
+## User manual
+
 <table>
   <tr>
     <th></th>
